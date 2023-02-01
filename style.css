@@ -82,10 +82,11 @@ nav ul li a {
 }
 
 .feature-img {
-    width: 300px;
+    width: 380px;
     position: absolute;
     bottom: 0;
     right: 10%;
+
 }
 
 .feature-img.anim {
